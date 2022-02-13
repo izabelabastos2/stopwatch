@@ -72,5 +72,4 @@ static void Start(int time)
     Thread.Sleep(2400);
 
     Menu();
-
 }
